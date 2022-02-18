@@ -33,7 +33,7 @@
   ],
   "dependencies": {
     "broccoli-caching-writer": "3.0.3",
-    "favicons": "git://github.com/wambaloo/favicons.git#5e5c9ff294bc3602b05578a5f5609e68ece14cb5",
+    "favicons": "git://github.com/wambaloo/favicons.git#wishgroupe",
     "heimdalljs-logger": "~0.1.10",
     "himalaya": "1.1.0",
     "lodash.merge": "~4.6.1"
